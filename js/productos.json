@@ -1,0 +1,183 @@
+[
+    {
+        "id": "audifono-01",
+        "titulo": "Audifono 01",
+        "imagen": "./img/audifonos/01.jpg",
+        "categoria": {
+            "nombre": "Audifonos",
+            "id": "audifonos"
+        },
+        "precio": 9990
+    },
+    {
+        "id": "audifono-02",
+        "titulo": "Audifono 02",
+        "imagen": "./img/audifonos/02.jpg",
+        "categoria": {
+            "nombre": "Audifonos",
+            "id": "audifonos"
+        },
+        "precio": 18990
+    },
+    {
+        "id": "aufifono-03",
+        "titulo": "Aufifono 03",
+        "imagen": "./img/audifonos/03.jpg",
+        "categoria": {
+            "nombre": "Audifonos",
+            "id": "audifonos"
+        },
+        "precio": 9500
+    },
+    {
+        "id": "aufifono-04",
+        "titulo": "Aufifono 04",
+        "imagen": "./img/audifonos/04.jpg",
+        "categoria": {
+            "nombre": "Audifonos",
+            "id": "audifonos"
+        },
+        "precio": 14990
+    },
+    {
+        "id": "aufifono-05",
+        "titulo": "Audífonos True Wireless WF-1000XM5",
+        "imagen": "./img/audifonos/05.jpg",
+        "categoria": {
+            "nombre": "Audifonos",
+            "id": "audifonos"
+        },
+        "precio": 19990
+    },
+    {
+        "id": "celular-01",
+        "titulo": "Celular Samsung Galaxy A15 5G 128GB",
+        "imagen": "./img/celulares/01.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 149990
+    },
+    {
+        "id": "celular-02",
+        "titulo": "Celular Samsung Galaxy A55 256GB",
+        "imagen": "./img/celulares/02.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 299990
+    },
+    {
+        "id": "celular-03",
+        "titulo": "Celular Motorola Edge 50 Fusion 256GB ",
+        "imagen": "./img/celulares/03.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 279990
+    },
+    {
+        "id": "celular-04",
+        "titulo": "CCelular Apple iPhone 14 128GB",
+        "imagen": "./img/celulares/04.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 729990
+    },
+    {
+        "id": "celular-05",
+        "titulo": "Celular Apple iPhone 15 256GB",
+        "imagen": "./img/celulares/05.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 949990
+    },
+    {
+        "id": "celular-06",
+        "titulo": "Celular Samsung Galaxy S24 Ultra 512GB",
+        "imagen": "./img/celulares/06.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 1449990
+    },
+    {
+        "id": "celular-07",
+        "titulo": "Celular Xiaomi Redmi 13C 128GB",
+        "imagen": "./img/celulares/07.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 108990
+    },
+    {
+        "id": "celular-08",
+        "titulo": "Celular Motorola Moto G54 5G 256GB",
+        "imagen": "./img/celulares/08.jpg",
+        "categoria": {
+            "nombre": "Celulares",
+            "id": "celulares"
+        },
+        "precio": 149990
+
+    },
+    {
+        "id": "laptop-01",
+        "titulo": "Notebook HP Victus 15-FB1007LA AMD Ryzen 5 8GB 512GB",
+        "imagen": "./img/laptops/01.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 599990
+    },
+    {
+        "id": "laptop-02",
+        "titulo": "Notebook HP 15-ef2516la AMD Ryzen 3 8GB 512GB",
+        "imagen": "./img/laptops/02.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 3499900
+    },
+    {
+        "id": "laptop-03",
+        "titulo": "Notebook HP 15-dy5000la Core i5 8GB 512GB",
+        "imagen": "./img/laptops/03.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 399990
+    },
+    {
+        "id": "laptop-04",
+        "titulo": "Notebook Lenovo Ideapad 3 AMD Ryzen 7",
+        "imagen": "./img/laptops/04.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 519990
+    },
+    {
+        "id": "laptop-05",
+        "titulo": "Notebook Asus Vivobook Go 14 AMD Ryzen 5 8GB 512GB",
+        "imagen": "./img/laptops/05.jpg",
+        "categoria": {
+            "nombre": "Laptops",
+            "id": "laptops"
+        },
+        "precio": 419990
+    }
+]
